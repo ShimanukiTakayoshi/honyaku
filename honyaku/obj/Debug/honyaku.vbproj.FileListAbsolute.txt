@@ -1,0 +1,29 @@
+c:\users\shima\documents\visual studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.exe.config
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.exe
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.pdb
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.xml
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.Resources.resources
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.vbproj.GenerateResource.Cache
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.exe
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.xml
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.pdb
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.frmCat.resources
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.exe.config
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.exe
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.xml
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.pdb
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.exe
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.pdb
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\bin\Debug\honyaku.xml
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.frmCat.resources
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.Resources.resources
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.vbproj.GenerateResource.Cache
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.honyaku.resources
+C:\Users\Kyoei_Shimanuki\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.frmSearchSheet.resources
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.frmSearchSheet.resources
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.honyaku.resources
+C:\Users\Shima\Documents\Visual Studio 2012\Projects\honyaku\honyaku\obj\Debug\honyaku.ReadingInfo.resources
+C:\Users\Shima\Documents\MyDream\honyaku\honyaku\bin\Debug\honyaku.exe.config
+C:\Users\Shima\Documents\MyDream\honyaku\honyaku\obj\Debug\honyaku.exe
+C:\Users\Shima\Documents\MyDream\honyaku\honyaku\obj\Debug\honyaku.xml
+C:\Users\Shima\Documents\MyDream\honyaku\honyaku\obj\Debug\honyaku.pdb
